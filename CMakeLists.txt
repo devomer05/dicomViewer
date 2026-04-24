@@ -38,3 +38,9 @@ vtk_module_autoinit(
     TARGETS DicomViewer
     MODULES ${VTK_LIBRARIES}
 )
+
+add_custom_command(TARGET DicomViewer POST_BUILD
+    COMMAND "${Qt6_DIR}/../../../bin/windeployqt.exe"
+            "$<TARGET_FILE:DicomViewer>"
+    COMMENT "Deploying Qt DLLs"
+)
