@@ -44,3 +44,8 @@ Tech Stack
 Qt (UI)
 VTK (rendering)
 GDCM (DICOM parsing)
+
+## Screenshot
+
+![DICOM Viewer](assets/1.png)
+![DICOM Viewer](assets/2.png)
