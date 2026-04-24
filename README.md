@@ -47,5 +47,6 @@ GDCM (DICOM parsing)
 
 ## Screenshots
 
-![Screenshot 1](./assets/1.png)
-![Screenshot 2](./assets/2.png)
+<img src="https://raw.githubusercontent.com/devomer05/dicomViewer/main/assets/1.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/devomer05/dicomViewer/main/assets/2.png" width="600"/>
