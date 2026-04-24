@@ -45,7 +45,7 @@ Qt (UI)
 VTK (rendering)
 GDCM (DICOM parsing)
 
-## Screenshot
+## Screenshots
 
-![DICOM Viewer](assets/1.png)
-![DICOM Viewer](assets/2.png)
+![Screenshot 1](./assets/1.png)
+![Screenshot 2](./assets/2.png)
